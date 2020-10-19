@@ -15,3 +15,4 @@ git push     -> Ladet meine Commits in die Cloud (Github)
 git pull     -> Ladet meine Commits aus der Cloud ins lokale Repository
 
 // Ein Kommentar
+// Ein zweites Kommentar
