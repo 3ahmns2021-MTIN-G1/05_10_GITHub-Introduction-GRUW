@@ -13,3 +13,5 @@ git config --global user.email "wilfried.gruber@htl-salzburg.ac.at"
 
 git push     -> Ladet meine Commits in die Cloud (Github)
 git pull     -> Ladet meine Commits aus der Cloud ins lokale Repository
+
+// Ein Kommentar
