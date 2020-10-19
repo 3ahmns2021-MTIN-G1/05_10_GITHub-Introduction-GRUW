@@ -3,6 +3,9 @@ git init	-> Initialsierung eines neuen Repositories (Lokal)
 git add Dateiname -> Fügt die definierte Datei hinzu (Staging Area)
 git add *	  -> Fügt ALLE Änderung hinzu (Staging Area)
 
+git commit -m "Eure Nachricht" -> Erstellt einen Speicherstand (Commit)
+
+git log 	-> Zeigt die commit history an
 
 
 git config --global user.name "GruberWilfried"
