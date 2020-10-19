@@ -11,4 +11,4 @@ Wichtig!!!	-> Die Taste Q-Drücken um aus der Eingabe rauszukommen
 git config --global user.name "GruberWilfried"
 git config --global user.email "wilfried.gruber@htl-salzburg.ac.at"
 
-git push
+git push     -> Ladet meine Commits in die Cloud (Github)
